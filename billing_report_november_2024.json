@@ -1,0 +1,40 @@
+{
+    "line_items": [
+        {
+            "item_code": "Executive Desk (4*2)",
+            "rate": 7000.0,
+            "qty": 38,
+            "amount": 40800.0,
+            "billing_period": "2024-11-01 to 2024-11-30"
+        },
+        {
+            "item_code": "Manager Cabin",
+            "rate": 7000.0,
+            "qty": 8,
+            "amount": 40600.0,
+            "billing_period": "2024-11-01 to 2024-11-30"
+        },
+        {
+            "item_code": "Parking (2S)",
+            "rate": 7000.0,
+            "qty": 25,
+            "amount": 15000.0,
+            "billing_period": "2024-11-01 to 2024-11-30"
+        },
+        {
+            "item_code": "Conference Table",
+            "rate": 7000.0,
+            "qty": 1,
+            "amount": 20000.0,
+            "billing_period": "2024-11-01 to 2024-11-30"
+        },
+        {
+            "item_code": "Reception Desk",
+            "rate": 7000.0,
+            "qty": 3,
+            "amount": 21000.0,
+            "billing_period": "2024-11-01 to 2024-11-30"
+        }
+    ],
+    "total_revenue": 137400.0
+}
