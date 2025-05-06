@@ -28,9 +28,9 @@ Ensure input_items.json is in the same directory.
 Run all cells to generate the report.
 
 📌 Requirements
-Python 3.x
-
-Jupyter Notebook
+  Python 3.x
+  
+  Jupyter Notebook
 
 datetime and json (standard libraries)
 
