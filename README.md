@@ -17,20 +17,6 @@ The notebook:
 4. Groups results by `item_code`.
 5. Outputs the final bill in JSON format.
 
-### Output Example:
-```json
-{
-  "line_items": [
-    {
-      "item_code": "Executive Desk (4*2)",
-      "rate": 1080.0,
-      "qty": 25,
-      "amount": 27000.0,
-      "billing_period": "2024-11-01 to 2024-11-30"
-    }
-  ],
-  "total_revenue": 72000.0
-}
 
 ▶️ Running the Notebook
 Clone the repo or download the notebook.
@@ -47,3 +33,19 @@ Python 3.x
 Jupyter Notebook
 
 datetime and json (standard libraries)
+
+### Output Example:
+```json
+{
+  "line_items": [
+    {
+      "item_code": "Executive Desk (4*2)",
+      "rate": 1080.0,
+      "qty": 25,
+      "amount": 27000.0,
+      "billing_period": "2024-11-01 to 2024-11-30"
+    }
+  ],
+  "total_revenue": 72000.0
+}
+
